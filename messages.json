@@ -1,1 +1,4 @@
-{"334":{"id":334,"content":"new message two"},"809":{"id":809,"content":"new message"}}
+{
+  "334": { "id": 334, "content": "new message two" },
+  "809": { "id": 809, "content": "new message" }
+}
